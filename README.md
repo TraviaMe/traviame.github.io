@@ -1,2 +1,2 @@
-# traviame.github.io
+# TraviaMe
 Personal Site
