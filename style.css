@@ -1,3 +1,8 @@
+@font-face {
+    src: url(MonotypeCorsiva.ttf);
+    font-family: Monotype Corsiva;
+}
+
 body {
     margin: 0;
     font-family: Monotype Corsiva;
